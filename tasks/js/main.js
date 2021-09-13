@@ -39,8 +39,8 @@ function buildProjectSection(project_id, tasksObject) {
   var countTotal = 0;
 
   $.each(tasksObject.features, function(index, feature){
-    console.log(index);
-    console.log(feature);
+    // console.log(index);
+    // console.log(feature);
     var thisState = feature.properties.taskStatus;
     countTotal++
     if (thisState === 2) {
