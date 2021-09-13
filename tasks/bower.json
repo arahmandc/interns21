@@ -1,0 +1,21 @@
+{
+  "name": "Data Quality Interns 2021 ",
+  "version": "0.0.0",
+  "authors": [
+    "Atikur Rahman <arahman.dcc2@gmail.com>"
+  ],
+  "license": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "~0.7.3",
+    "bootstrap": "~3.3.5",
+    "jquery": "~1",
+    "d3": "~3.5.5"
+  }
+}
