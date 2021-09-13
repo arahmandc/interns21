@@ -20,7 +20,8 @@ var removedStyle = {
 };
 
 
-//https://tasking-manager-tm4-production-api.hotosm.org/api/v2/projects/11353/tasks/?tasks=1%2C2&as_file=true
+//https://tasking-manager-tm4-production-api.hotosm.org/api/v2/projects/11353/tasks/tasks/?as_file=true
+//https://tasking-manager-tm4-production-api.hotosm.org/api/v2/projects/11353/statistics/
 
 function listTasks(element, index, array) {
   var project_id = element;
