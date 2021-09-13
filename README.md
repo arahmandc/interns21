@@ -4,7 +4,9 @@ Personal Repu for Documentation
 ##
 Tasks 
 
-Day 1 [06/09/2021](https://arahmandc.github.io/interns21/06092021).
+Week 1 [06/09/2021](https://arahmandc.github.io/interns21/06092021).
+
+Week 2 [13/09/2021](https://arahmandc.github.io/interns21/13092021).
 
 
 ##
