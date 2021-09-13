@@ -56,7 +56,7 @@ console.log(percentComplete)
     '<div class="col-md-6">' +
       '<div class="">' +
         '<h4>Task #' + project_id + '</h4>' +
-        '<p>' + ' ' + percentComplete + '% ' + 'complete'+ '</p>' +
+        // '<p>' + ' ' + percentComplete + '% ' + 'complete'+ '</p>' +
       '</div>' +
    '</div>' +
     '<div class="col-md-6">' +
