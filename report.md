@@ -22,4 +22,4 @@ Date | 4. Number of buildings mapped ever | 5. Number of highways mapped ever | 
 06/09/2021 | 63708 | 1483 | 31 | 403 | 1808 | 346 | 375 | N/A | N/A | 00:00
 13/09/2021 | 69365 | 1626 | 32 | 421 | 1823 | 421 | 375 | 40 | Learned new changes on Id Editor | 00:00
 20/09/2021 | 72177 | 1847 | 47 | 491 | 1877 | 453 | 375 | 40 | I learned about community working groups from Pete Masters, And also learned the difference between bridge ford culvert from Becky Candy. | 98:05
-
+27/09/2021 | 76397 | 1883 | 49 | 542 | 1891 | 565 | 692 | 40 | This week I learned about using of Mapathoner plugin. | 104:12
