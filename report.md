@@ -1,6 +1,8 @@
 
 #missingmaps #hotdqi2021
 
+[Project listed](https://docs.google.com/spreadsheets/d/1v4fNOpFSlKZ3X9dMKJSZLvCgu-kHupqcfmjcGeqFrQc/edit#gid=0)
+
 To find Out Stats
 
 [http://hdyc.neis-one.org/ (Atikur Rahman atik)](http://hdyc.neis-one.org/?Atikur%20Rahman%20atik)
