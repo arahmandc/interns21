@@ -15,4 +15,4 @@ Weekly Report View [Link](https://arahmandc.github.io/interns21/report).
 
 
 ##
-Importent [Link](https://arahmandc.github.io/interns21/impotentLink).
+Importent [Link](https://arahmandc.github.io/interns21/importentLink).
