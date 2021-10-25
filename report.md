@@ -28,4 +28,4 @@ Date | 4. Number of buildings mapped ever | 5. Number of highways mapped ever | 
 04/10/2021 | 79462 | 1905 | 49 | 578 | 1906 | 630 | 920 | 40 | This week i Learned about keep Right, Osmose, OSM inspector and other Quality Assurance Tools. | 115: 34
 11/10/2021 | 80550 | 1924 | 49 | 595 | 1930 | 632 | 1123 | 40 | This week I got to know how OpenStreetMap helps in Humanitarian sectors, why we are mapping on Zambia. | 116: 02
 18/10/2021 | 82879 | 1958 | 193 | 598 | 1964 | 687 | 1558 | 40 | This week I learned how to make decisions where to map by disaster ninja and how to validate by OSMCha. | 119: 54
-25/10/2021 | 83372 | 1962 | 268 | 601 | 1966 | 813 | 1806 | 40 | This week i learned basic QGIS. | 123: 33
+25/10/2021 | 84020 | 1966 | 361 | 601 | 1972 | 813 | 1806 | 40 | This week I learned basic QGIS. | 123: 33
